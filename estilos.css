@@ -3,3 +3,8 @@ h1{
     color: white;
     border: 1px solid blue;
 }
+
+p{
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
